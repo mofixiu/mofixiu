@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mofiyin</h1>
+<h3 align="center">A passionate Flutter developer and Computer Science student </h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/rvxMJNyHAgwlW4YWpJ/giphy.gif" alt="mcmahon" width="300px"  height="300px"/>
+</p>
+🌟 About Me
 
-<!--
-**mofixiu/mofixiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Computer Science Student
+- Currently working on TheMentr – a platform to connect with mentors in your field
+- Exploring opportunities in backend, Flutter, and AI-powered apps
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+- Flutter / Dart
+- Node.js / Express
+- Firebase / MySQL / MongoDB/ PostgreSQL
+- Python (for ML & scripts)
+- Git, GitHub, REST APIs
+
+
+📊 **Contribution Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mofixiu&theme=rogue" alt="Contribution Graph" />
+</p>
+
+
+
+
+- Portfolio: [(https://mofiyinebo.vercel.app)]
+- LinkedIn: [(https://www.linkedin.com/in/mofiyinfoluwa-ebo-57b65423a/)]
+- Email: `ebomofiyin@outlook.com` 
+
+
+
