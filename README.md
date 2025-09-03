@@ -14,12 +14,20 @@
 
 - Flutter / Dart
 - Node.js / Express
-- Firebase / MySQL / MongoDB/ PostgreSQL
-- Python (for ML & scripts)
+- Firebase / MySQL / PostgreSQL
+- Python
 - Git, GitHub, REST APIs
 
+💻 Programming Languages
 
-📊 **Contribution Graph**
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+📊 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mofixiu&theme=rogue" alt="Contribution Graph" />
