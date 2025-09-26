@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mofiyin</h1>
+<h1 align="center">Hello, I'm Mofiyin</h1>
 <h3 align="center">A passionate Flutter developer and Computer Science student </h3>
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/rvxMJNyHAgwlW4YWpJ/giphy.gif" alt="mcmahon" width="300px"  height="300px"/>
