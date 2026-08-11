@@ -56,18 +56,15 @@
 
 ---
 
-### 📊 GitHub Activity
+📊 Contribution Graph
+
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mofixiu&theme=rogue" alt="Mofiyin's Contribution Graph" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mofixiu&show_icons=true&theme=rogue&hide_border=true" alt="Mofiyin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofixiu&layout=compact&theme=rogue&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mofixiu&theme=rogue" alt="Contribution Graph" />
 
----
+</p>
 
 ### 📫 Connect With Me
 
