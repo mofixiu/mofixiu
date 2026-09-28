@@ -2,7 +2,7 @@
 <h3 align="center">Mobile App Developer & Full-Stack Engineer</h3>
 
 <p align="center">
-  <a href="https://mofiyinebo.vercel.app"><b>🌐 Portfolio</b></a> •
+  <a href="https://mofiyinebo.com"><b>🌐 Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/mofiyinfoluwa-ebo-57b65423a/"><b>💼 LinkedIn</b></a> •
   <a href="mailto:ebomofiyin@outlook.com"><b>📧 Email</b></a>
 </p>
