@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mofiyinfoluwa 👋</h1>
-<h3 align="center">Mobile App Developer & Full-Stack Engineer</h3>
+<h3 align="center">Mobile Engineer</h3>
 
 <p align="center">
   <a href="https://mofiyinebo.com"><b>🌐 Portfolio</b></a> •
@@ -19,9 +19,9 @@
 
 ### 🌟 About Me
 
-- 📱 **Mobile App Developer** at **Haze Couture**
-- 🎓 **Computer Science Senior** at **Covenant University** (Graduating Aug 2026).
-- ⚙️ **Tech Stack Focus:** Flutter/Dart, Node.js/Express, Python (Flask), PostgreSQL, MySQL, and RESTful APIs.
+- 📱 **Head of Product and Mobile App Development Lead** at **[Haze Couture](https://apps.apple.com/us/app/haze-couture-try-on-shop/id6759711912)**, live on the App Store
+- 🎓 **First Class B.Sc. Computer Science**, **Covenant University** (2026)
+- ⚙️ **Tech Stack Focus:** Flutter/Dart, Node.js/Express, Python (FastAPI, Flask), PostgreSQL, MySQL, and RESTful APIs.
 - 🚀 **Passionate about:** Scalable mobile architectures, interactive 3D UI workflows, and AI-driven automation tools.
 
 ---
@@ -42,17 +42,29 @@
 
 ### 🚀 Featured Projects
 
-- 📈 **HYBSTOCKADVISOR** | *Flutter, Dart, Python, Flask, PostgreSQL*  
+- 👗 **HAZE COUTURE** | *Flutter, Dart, 3D try-on, Apple Pay, Live Activities*  
+  🔗 [App Store](https://apps.apple.com/us/app/haze-couture-try-on-shop/id6759711912)  
+  A virtual try-on and shopping app: shoppers scan their body once, then see clothes on their own 3D mannequin. I led the Flutter app from handover to its App Store launch.
+
+- 🏋️ **NEFAREC** | *Flutter, Dart, Riverpod, Drift, SwiftUI, Node.js, PostgreSQL*  
+  🔗 [Frontend Repo](https://github.com/mofixiu/neFaRecmobile) • [Backend Repo](https://github.com/mofixiu/neFaRecbackend)  
+  A workout tracker that starts from the routine you already have: paste it from a note or a chat, check what it read, then train it with a set table, rest timers and a Live Activity. Works offline.
+
+- 📦 **WORKOUT_PARSER** | *Dart package*  
+  🔗 [pub.dev](https://pub.dev/packages/workout_parser) • [Repo](https://github.com/mofixiu/workout_parser) • [Try it](https://workoutparse.mofiyinebo.com)  
+  neFaRec's routine parser, published on pub.dev. It turns plain-text routines into days, sets, reps, holds, rest and supersets, matched against 884 exercises.
+
+- 📈 **HYBSTOCKADVISOR** | *Flutter, Dart, Python, FastAPI, PostgreSQL, FinBERT*  
   🔗 [Frontend Repo](https://github.com/mofixiu/hybstockadvisor) • [Backend Repo](https://github.com/mofixiu/hybridstockinvestmentadvisor)  
-  A role-aware stock investment advisor app combining financial technical analysis with NLP sentiment analysis for real-time market insights.
+  A stock advisor for the Nigerian Exchange combining technical analysis with sentiment from a FinBERT model fine-tuned on Nigerian investor posts.
 
 - 📋 **SIWES360** | *Flutter, Dart, Node.js, Express.js, MySQL*  
   🔗 [Frontend Repo](https://github.com/mofixiu/siwes360) • [Backend Repo](https://github.com/mofixiu/siwes360Backend)  
   A full-stack digital platform digitizing student internship logbook monitoring, featuring JWT-based RBAC across 4 user roles.
 
-- 🗓️ **OtakuPlanner** | *Flutter, Dart, Node.js, Express.js, AI Integration*  
+- 🗓️ **OtakuPlanner** | *Flutter, Dart, Node.js, Express.js, Gemini API*  
   🔗 [Frontend Repo](https://github.com/mofixiu/OtakuPlanner) • [Backend Repo](https://github.com/mofixiu/OtakuPlannerBackend)  
-  A cross-platform productivity and routine tracking application featuring offline-first local database sync and AI-driven automated scheduling.
+  A productivity planner for anime fans: tasks on a calendar, recurring tasks typed in plain English, a daily streak, badges and a planning assistant that suggests times.
 
 ---
 
@@ -68,6 +80,7 @@
 
 ### 📫 Connect With Me
 
-- **Portfolio:** [mofiyinebo.vercel.app](https://mofiyinebo.vercel.app)
+- **Portfolio:** [mofiyinebo.com](https://mofiyinebo.com)
+- **CV:** [cv.mofiyinebo.com](https://cv.mofiyinebo.com)
 - **LinkedIn:** [linkedin.com/in/mofiyinfoluwa-ebo-57b65423a](https://www.linkedin.com/in/mofiyinfoluwa-ebo-57b65423a/)
 - **Email:** [ebomofiyin@outlook.com](mailto:ebomofiyin@outlook.com)
