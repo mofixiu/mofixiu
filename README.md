@@ -74,7 +74,11 @@
 
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mofixiu&theme=rogue" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mofixiu/mofixiu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mofixiu/mofixiu/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mofixiu/mofixiu/output/github-snake.svg" alt="A snake eating my GitHub contribution graph" />
+  </picture>
 
 </p>
 
